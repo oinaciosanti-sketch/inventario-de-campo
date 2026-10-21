@@ -1,9 +1,7 @@
-INVENTÁRIO DE CAMPO + AUDITORIA 5S — v2.0
+INVENTÁRIO DE CAMPO 2.1 – FOTOS
 
-Envie os arquivos da pasta para a RAIZ do mesmo repositório GitHub. Substitua index.html, sw.js e manifest.webmanifest. Os ícones podem permanecer como estavam.
+Atualização: abas Inventário e Auditoria 5S agora têm botões separados para Tirar foto e Escolher da galeria. Botões Baixar todas as fotos (ZIP) em ambas as abas.
 
-O Inventário mantém a chave existente main no IndexedDB inventario-campo-v1. A Auditoria 5S usa a chave audit5s na mesma base. Dados separados.
+Faça backup JSON com fotos antes de atualizar. Envie index.html, sw.js, manifest.webmanifest e ícones para a raiz do repositório GitHub, substituindo os anteriores.
 
-Antes de atualizar: exporte o Backup com fotos do Inventário. Faça um teste com um item em cada módulo. Depois use Modo Avião e confirme que ambos estão disponíveis.
-
-Envio por e-mail prepara o texto, mas o PDF precisa ser anexado manualmente. A página não tem backend nem sincronização na nuvem.
+Registros permanecem no IndexedDB original. Fotos do ZIP são as cópias otimizadas armazenadas no aplicativo. Teste galeria, câmera, ZIP e modo offline no iPhone.
